@@ -1,0 +1,3 @@
+C:/Users/home/Documents/PROJECT/forTTask/build/CMakeFiles/forTTask.dir
+C:/Users/home/Documents/PROJECT/forTTask/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/home/Documents/PROJECT/forTTask/build/CMakeFiles/ZERO_CHECK.dir

@@ -9,7 +9,7 @@ forTTask is designed to help people gamify their daily tasks, work, and goals. U
 ## Technical aspects:
 
 - **Language:** C  
-- **GUI Toolkit:** [Nuklear](https://immediate-mode-ui.github.io/Nuklear/)  
+- **GUI Toolkit:** [SDL3](https://github.com/libsdl-org/SDL)  
 - **Platform:** Windows (initial development phase, potential cross-platform expansion)
 
 ---

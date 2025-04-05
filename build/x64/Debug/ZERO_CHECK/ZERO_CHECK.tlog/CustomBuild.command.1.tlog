@@ -1,0 +1,10 @@
+^C:\USERS\HOME\DOCUMENTS\PROJECT\FORTTASK\BUILD\CMAKEFILES\A1642DFCD3C50D31304829B2E9B19F06\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/home/Documents/PROJECT/forTTask -BC:/Users/home/Documents/PROJECT/forTTask/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/home/Documents/PROJECT/forTTask/build/forTTask.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
